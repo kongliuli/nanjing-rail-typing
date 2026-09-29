@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>游戏画面演示</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<div id="app">
+  <section id="screen-home" class="screen">
+    <header class="topbar"><div class="brand">🚇 <span data-i18n="title"></span></div>
+      <div class="controls"><select id="mode-select" class="sel"></select><select id="lang-select" class="sel"></select></div></header>
+    <div class="hero"><h1 data-i18n="heroTitle"></h1><p data-i18n="heroSub"></p></div>
+    <h2 class="section-title" data-i18n="selectLine"></h2>
+    <main id="line-grid" class="line-grid"></main>
+    <footer class="foot" data-i18n="footer"></footer>
+  </section>
+  <section id="screen-game" class="screen hidden">
+    <header class="gamebar">
+      <button id="btn-exit" class="ghostbtn" data-i18n="exit"></button>
+      <button id="btn-pause" class="ghostbtn">⏸</button>
+      <div id="game-linebadge" class="linebadge"></div>
+      <div id="game-progress" class="progress-text"></div>
+      <div id="game-timer" class="timer">0.0s</div>
+    </header>
+    <div id="map-wrap"><svg id="map-svg"></svg><div id="train">🚆</div>
+      <div id="hist-bubble" class="hist-bubble hidden">
+        <div class="hb-head"><span class="hb-tag" data-i18n="histLabel"></span><b id="hb-station"></b></div>
+        <div class="hb-text" id="hb-text"></div>
+      </div>
+    </div>
+    <p class="map-cap" data-i18n="mapCap"></p>
+    <div class="station-zh" id="station-zh"></div>
+    <div class="type-zone" id="type-zone">
+      <div class="kana-hint" id="kana-hint"></div>
+      <div class="target" id="target"></div>
+      <div class="hintbar" id="hintbar"></div>
+    </div>
+    <input id="ghost" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false">
+    <div class="livestats">
+      <span><span data-i18n="wpm"></span> <b id="live-wpm">0</b></span>
+      <span><span data-i18n="accuracy"></span> <b id="live-acc">100%</b></span>
+      <span><span data-i18n="lastStation"></span> <b id="live-last">–</b></span>
+    </div>
+  </section>
+  <section id="screen-result" class="screen hidden">
+    <div class="result-card">
+      <h2 id="result-title"></h2><div id="r-record" class="record-line"></div>
+      <div class="result-grid">
+        <div class="rstat"><span data-i18n="totalTime"></span><b id="r-time"></b></div>
+        <div class="rstat"><span data-i18n="wpm"></span><b id="r-wpm"></b></div>
+        <div class="rstat"><span data-i18n="accuracy"></span><b id="r-acc"></b></div>
+        <div class="rstat"><span data-i18n="stations"></span><b id="r-stations"></b></div>
+      </div>
+      <h3 data-i18n="slowest"></h3><ol id="r-slowest" class="slowest"></ol>
+      <div class="btnrow"><button id="btn-retry" class="primary"></button><button id="btn-home"></button><button id="btn-copy"></button></div>
+    </div>
+  </section>
+  <div id="pause-overlay" class="overlay hidden">
+    <div class="pause-card"><h2 data-i18n="paused"></h2>
+      <div class="btnrow"><button id="btn-resume" class="primary"></button><button id="btn-quit"></button></div></div>
+  </div>
+</div>
+<script src="../js/data.js"></script>
+<script src="../js/i18n.js"></script>
+<script src="../js/game.js"></script>
+<script>
+/* 演示：自动进入 4 号线并完成前 5 站，展示地图+气泡+打字区 */
+setTimeout(() => {
+  const { S, feedChar } = globalThis.__NRT;
+  const line = NANJING_LINES.find((l) => l.id === "L4");
+  globalThis.__NRT.startGame(line);
+  let i = 0;
+  const step = () => {
+    if (i >= 5) return;
+    const st = line.stations[i];
+    for (const ch of st.py) feedChar(ch);
+    i++;
+    setTimeout(step, 500);
+  };
+  step();
+}, 300);
+</script>
+</body>
+</html>

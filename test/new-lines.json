@@ -1,0 +1,140 @@
+[
+  {
+    "id": "L5", "num": "5", "color": "#EAB308",
+    "name": { "zh": "5号线", "en": "Line 5", "ja": "5号線" },
+    "stations": [
+      { "zh": "吉印大道", "en": "Jiyindadao", "py": "jiyindadao", "hist": { "zh": "江宁东西向干道，路名取吉语；S1、5号线换乘站。", "en": "An east–west Jiangning avenue; interchange of Lines S1 and 5." } },
+      { "zh": "九龙湖南", "en": "Jiulonghunan", "py": "jiulonghunan", "hist": { "zh": "九龙湖南岸的新兴居住区。", "en": "A new residential quarter on the south shore of Jiulonghu Lake." } },
+      { "zh": "诚信大道", "en": "Chengxindadao", "py": "chengxindadao", "hist": { "zh": "江宁大学城干道，路名取『诚信』嘉言；3、5号线换乘站。", "en": "A university-town avenue named for integrity; interchange of Lines 3 and 5." } },
+      { "zh": "前庄", "en": "Qianzhuang", "py": "qianzhuang", "hist": { "zh": "江宁老村落名，地名沿用。", "en": "An old Jiangning village name still in use." } },
+      { "zh": "科宁路", "en": "Keninglu", "py": "keninglu", "hist": { "zh": "取『科技宁乡』之意的新区路名。", "en": "A new-district road blending 'science' and 'Jiangning'." } },
+      { "zh": "竹山路", "en": "Zhushanlu", "py": "zhushanlu", "hist": { "zh": "东山老城南北干道，地名沿用旧村落名；1、5号线换乘站。", "en": "An old Dongshan north–south road; interchange of Lines 1 and 5." } },
+      { "zh": "新亭路", "en": "Xintinglu", "py": "xintinglu", "hist": { "zh": "纪念东晋新亭，『新亭对泣』典故之地。", "en": "Recalls Xinting of the Eastern Jin, home of the famed 'weeping at Xinting' story." } },
+      { "zh": "东山", "en": "Dongshan", "py": "dongshan", "hist": { "zh": "江宁区驻地，『东山再起』典故出自东晋谢安。", "en": "Seat of Jiangning District, source of the idiom 'a comeback from East Hill' (Xie An)." } },
+      { "zh": "文靖路", "en": "Wenjinglu", "py": "wenjinglu", "hist": { "zh": "路名取『文靖』雅号。", "en": "A road named after the scholarly posthumous title Wenjing." } },
+      { "zh": "东山香樟园", "en": "Dongshanxiangzhangyuan", "py": "dongshanxiangzhangyuan", "hist": { "zh": "以香樟树闻名的大片居住绿地。", "en": "A residential quarter known for its camphor trees." } },
+      { "zh": "神机营", "en": "Shenjiying", "py": "shenjiying", "hist": { "zh": "明代京军神机营驻地，中国最早成建制的火器部队。", "en": "Base of the Ming Divine Machine Camp, China's first organized firearms corps." } },
+      { "zh": "大校场", "en": "Dajiaochang", "py": "dajiaochang", "hist": { "zh": "明代演武校场，后为大校场机场，2015年停用转型南部新城；5、10号线换乘站。", "en": "The Ming drill ground, later the airfield closed in 2015; interchange of Lines 5 and 10." } },
+      { "zh": "七桥瓮", "en": "Qiqiaoweng", "py": "qiqiaoweng", "hist": { "zh": "明代七孔石桥，南京现存最大古石拱桥之一。", "en": "A seven-arch Ming stone bridge, among Nanjing's largest ancient arch bridges." } },
+      { "zh": "石门坎", "en": "Shimenkan", "py": "shimenkan", "hist": { "zh": "老城南东缘的老地名。", "en": "An old place name on the eastern edge of the old city." } },
+      { "zh": "光华门", "en": "Guanghuamen", "py": "guanghuamen", "hist": { "zh": "明都城南门正阳门，民国改称光华门。", "en": "The Ming south gate Zhengyangmen, renamed Guanghuamen in the Republican era." } },
+      { "zh": "通济门", "en": "Tongjimen", "py": "tongjimen", "hist": { "zh": "明代内城门，旧为水陆交通枢纽。", "en": "A Ming inner-city gate, once a water–land transport hub." } },
+      { "zh": "夫子庙", "en": "Fuzimiao", "py": "fuzimiao", "hist": { "zh": "始建于宋的孔庙建筑群，与秦淮画舫、江南贡院同为文化地标。", "en": "The Confucius Temple complex, with Qinhuai boats and the exam halls." } },
+      { "zh": "三山街", "en": "Sanshanjie", "py": "sanshanjie", "hist": { "zh": "明清以来繁华街市，地名传与『三山』古称相关。", "en": "A bustling street since the Ming and Qing, named for the ancient Three Hills." } },
+      { "zh": "朝天宫", "en": "Chaotiangong", "py": "chaotiangong", "hist": { "zh": "江南现存规模最大的古建筑群，明代为朝天祭祀之所。", "en": "The largest ancient building complex in Jiangnan, a Ming court for imperial rites." } },
+      { "zh": "上海路", "en": "Shanghailu", "py": "shanghailu", "hist": { "zh": "民国风貌街区，旧时使馆区片区之一。", "en": "A Republican-era street through the old consular quarter." } },
+      { "zh": "五台山", "en": "Wutaishan", "py": "wutaishan", "hist": { "zh": "山形似五台得名，今为体育中心与先锋书店所在。", "en": "Named for its five terraces; now a sports center and home to a famed bookstore." } },
+      { "zh": "云南路", "en": "Yunnanlu", "py": "yunnanlu", "hist": { "zh": "以省名命名的老城路名，民国时已见记载。", "en": "An old street named after Yunnan province, recorded in the Republican era." } },
+      { "zh": "青春广场", "en": "Qinchunguangchang", "py": "qinchunguangchang", "hist": { "zh": "湖南路商圈的市民广场。", "en": "A civic plaza in the Hunan Road shopping area." } },
+      { "zh": "虹桥", "en": "Hongqiao", "py": "hongqiao", "hist": { "zh": "旧有虹桥跨河的老地名。", "en": "An old name from a former arched bridge over the creek." } },
+      { "zh": "福建路", "en": "Fujianlu", "py": "fujianlu", "hist": { "zh": "以福建省命名的老城路名。", "en": "An old street named after Fujian province." } },
+      { "zh": "盐仓桥", "en": "Yancangqiao", "py": "yancangqiao", "hist": { "zh": "旧时官盐仓旁桥头老地名。", "en": "An old name from the bridge by the government salt warehouse." } },
+      { "zh": "下关", "en": "Xiaguan", "py": "xiaguan", "hist": { "zh": "长江老码头商埠区，南京近代开埠门户。", "en": "The old Yangtze port district, Nanjing's gateway in the treaty-port era." } },
+      { "zh": "静海寺", "en": "Jinghaisi", "py": "jinghaisi", "hist": { "zh": "明永乐敕建，郑和屡驻于此；1842年《南京条约》议约地。", "en": "An imperial Ming temple tied to Zheng He; where the Treaty of Nanjing was negotiated in 1842." } },
+      { "zh": "南京西站", "en": "Nanjingxi Railway Station", "py": "nanjingxizhan", "hist": { "zh": "1908年沪宁铁路始发站，百年老站房仍在。", "en": "The 1908 terminus of the Shanghai–Nanjing Railway; its old house still stands." } },
+      { "zh": "方家营", "en": "Fangjiaying", "py": "fangjiaying", "hist": { "zh": "下关滨江老村落名。", "en": "An old village name in the Xiaguan riverside area." } }
+    ]
+  },
+  {
+    "id": "L7", "num": "7", "color": "#1F7A4D",
+    "name": { "zh": "7号线", "en": "Line 7", "ja": "7号線" },
+    "stations": [
+      { "zh": "仙新路", "en": "Xianxinlu", "py": "xianxinlu", "hist": { "zh": "仙林北部新路，7号线北端起点。", "en": "A new northern Xianlin road; northern terminus of Line 7." } },
+      { "zh": "尧化门", "en": "Yaohuamen", "py": "yaohuamen", "hist": { "zh": "明代外郭城门尧化门故地。", "en": "Site of Yaohua Gate of the Ming outer wall." } },
+      { "zh": "尧化新村", "en": "Yaohuaxincun", "py": "yaohuaxincun", "hist": { "zh": "尧化门旁的大型居住区。", "en": "A large residential quarter beside Yaohua Gate." } },
+      { "zh": "丁家庄南", "en": "Dingjiazhuangnan", "py": "dingjiazhuangnan", "hist": { "zh": "丁家庄保障房片区南部。", "en": "Southern part of the Dingjiazhuang housing district." } },
+      { "zh": "丁家庄", "en": "Dingjiazhuang", "py": "dingjiazhuang", "hist": { "zh": "南京大型保障居住片区。", "en": "One of Nanjing's major public-housing districts." } },
+      { "zh": "万寿", "en": "Wanshou", "py": "wanshou", "hist": { "zh": "老地名万寿村。", "en": "Named after the old Wanshou village." } },
+      { "zh": "晓庄", "en": "Xiaozhuang", "py": "xiaozhuang", "hist": { "zh": "1927年陶行知在此创办晓庄师范，开中国乡村教育之先河。", "en": "Where Tao Xingzhi founded Xiaozhuang Normal School in 1927, pioneering rural education." } },
+      { "zh": "幕府山", "en": "Mufushan", "py": "mufushan", "hist": { "zh": "长江南岸丘陵，达摩『一苇渡江』传说之地。", "en": "Hills on the Yangtze's south bank, tied to Bodhidharma's reed-crossing legend." } },
+      { "zh": "五塘广场", "en": "Wutangguangchang", "py": "wutangguangchang", "hist": { "zh": "老地名『五塘』，旧为城北水塘密布之地。", "en": "The old Five Ponds place name of the city's north." } },
+      { "zh": "幕府西路", "en": "Mufuxilu", "py": "mufuxilu", "hist": { "zh": "幕府山以西干道。", "en": "The road west of Mufu Hill." } },
+      { "zh": "钟阜路", "en": "Zhongfulu", "py": "zhongfulu", "hist": { "zh": "城北新路，名承金陵『钟阜』旧称。", "en": "A northern road named after Jinling's old epithet Zhongfu." } },
+      { "zh": "福建路", "en": "Fujianlu", "py": "fujianlu", "hist": { "zh": "以福建省命名的老城路名。", "en": "An old street named after Fujian province." } },
+      { "zh": "古平岗", "en": "Gupinggang", "py": "gupinggang", "hist": { "zh": "滨江岗地老地名。", "en": "An old name for this riverside ridge." } },
+      { "zh": "草场门", "en": "Caochangmen", "py": "caochangmen", "hist": { "zh": "清末增辟的城门之一，今为城西干道要冲。", "en": "A gate opened in the late Qing; now a busy western artery." } },
+      { "zh": "清凉山", "en": "Qingliangshan", "py": "qingliangshan", "hist": { "zh": "六朝石头城所在，『石城虎踞』之源。", "en": "Home of the Stone City, source of the phrase 'the crouching tiger of Stone City'." } },
+      { "zh": "莫愁湖", "en": "Mochouhu", "py": "mochouhu", "hist": { "zh": "相传南朝美女莫愁女居此，号称『金陵第一名胜』。", "en": "Legend of Mochou, the sorrow-free maiden — 'the finest sight of Jinling'." } },
+      { "zh": "大士茶亭", "en": "Dashichating", "py": "dashichating", "hist": { "zh": "因观音大士庙前茶亭得名。", "en": "Named after a tea pavilion before an old Guanyin shrine." } },
+      { "zh": "南湖", "en": "Nanhu", "py": "nanhu", "hist": { "zh": "老城南湖居住区，湖名沿用。", "en": "The old South Lake residential district." } },
+      { "zh": "应天大街", "en": "Yingtiandajie", "py": "yingtiandajie", "hist": { "zh": "路名取明都『应天府』。", "en": "A road named after the Ming capital's name, Yingtianfu." } },
+      { "zh": "梦都大街东", "en": "Mengdudajiedong", "py": "mengdudajiedong", "hist": { "zh": "梦都大街东段。", "en": "The eastern section of Mengdu Avenue." } },
+      { "zh": "新城科技园", "en": "Xinchengkejiyuan", "py": "xinchengkejiyuan", "hist": { "zh": "建邺高新区的科技园区。", "en": "The tech park of Jianye's high-tech zone." } },
+      { "zh": "中胜", "en": "Zhongsheng", "py": "zhongsheng", "hist": { "zh": "河西中部老地名，今为新城商务片区；7、10号线换乘站。", "en": "A mid-Hexi old district, now a business quarter; interchange of Lines 7 and 10." } },
+      { "zh": "嘉陵江东街", "en": "Jialingjiangdongjie", "py": "jialingjiangdongjie", "hist": { "zh": "河西南部街巷名。", "en": "A street in Hexi's southern new town." } },
+      { "zh": "永初路", "en": "Yongchulu", "py": "yongchulu", "hist": { "zh": "河西南部新城路名。", "en": "A southern Hexi new-town street." } },
+      { "zh": "太清路", "en": "Taiqinglu", "py": "taiqinglu", "hist": { "zh": "河西南部路名。", "en": "A southern Hexi road name." } },
+      { "zh": "螺塘路", "en": "Luotanglu", "py": "luotanglu", "hist": { "zh": "旧时水塘密布之地，路名存水乡记忆；2、7号线换乘站。", "en": "Once a land of ponds — the name keeps the memory; interchange of Lines 2 and 7." } },
+      { "zh": "西善桥", "en": "Xishanqiao", "py": "xishanqiao", "hist": { "zh": "明代古桥西善桥得名；7、S2号线换乘站。", "en": "Named after the Ming-era Xishan bridge; interchange of Lines 7 and S2." } }
+    ]
+  },
+  {
+    "id": "S2", "num": "S2", "color": "#93282C",
+    "name": { "zh": "S2号线", "en": "Line S2", "ja": "S2号線" },
+    "stations": [
+      { "zh": "西善桥", "en": "Xishanqiao", "py": "xishanqiao", "hist": { "zh": "明代古桥西善桥得名；7、S2号线换乘站。", "en": "Named after the Ming-era Xishan bridge; interchange of Lines 7 and S2." } },
+      { "zh": "雨花经济开发区", "en": "Yuhua Jingji Development Zone", "py": "yuhuajingjikaifaqu", "hist": { "zh": "雨花台区西部产业园区。", "en": "An industrial park in western Yuhuatai District." } },
+      { "zh": "板桥", "en": "Banqiao", "py": "banqiao", "hist": { "zh": "千年古镇，古渡要冲。", "en": "An ancient town, long a ferry-crossing hub." } },
+      { "zh": "板桥南", "en": "Banqiaonan", "py": "banqiaonan", "hist": { "zh": "板桥镇以南新区。", "en": "The new quarter south of Banqiao town." } },
+      { "zh": "江宁镇", "en": "Jiangningzhen", "py": "jiangningzhen", "hist": { "zh": "千年古镇，六朝起即为江宁县治。", "en": "An ancient town serving as Jiangning's county seat since the Six Dynasties." } },
+      { "zh": "江宁滨江开发区", "en": "Jiangning Binjiang Development Zone", "py": "jiangningbinjiangkaifaqu", "hist": { "zh": "长江南岸的临港产业新城。", "en": "A riverside industrial new town on the Yangtze." } },
+      { "zh": "牧龙", "en": "Mulong", "py": "mulong", "hist": { "zh": "相传与牧养龙马传说相关的老地名。", "en": "An old name tied to a legend of pasturing dragon steeds." } },
+      { "zh": "铜井", "en": "Tongjing", "py": "tongjing", "hist": { "zh": "古铜矿井老地名。", "en": "An old name from ancient copper-mining pits." } },
+      { "zh": "慈湖高新区", "en": "Cihugaoxinqu", "py": "cihugaoxinqu", "hist": { "zh": "苏皖交界慈湖片区的高新区。", "en": "A high-tech zone by Cihu at the Jiangsu–Anhui border." } },
+      { "zh": "湖北路二中", "en": "Hubeilu Erzhong", "py": "hubeiluerzhong", "hist": { "zh": "以马鞍山二中命名的车站。", "en": "Named after Ma'anshan No. 2 Middle School nearby." } },
+      { "zh": "湖南路安工大", "en": "Hunanlu Angongda", "py": "hunanluangongda", "hist": { "zh": "邻安徽工业大学的车站。", "en": "The station serving Anhui University of Technology." } },
+      { "zh": "雨山东路", "en": "Yushandonglu", "py": "yushandonglu", "hist": { "zh": "马鞍山雨山东路。", "en": "Yushan East Road in Ma'anshan." } },
+      { "zh": "阳湖", "en": "Yanghu", "py": "yanghu", "hist": { "zh": "近阳湖塘老地名。", "en": "Named after the old Yanghutang area." } },
+      { "zh": "马鞍山经开区", "en": "Ma'anshanjingkaiqu", "py": "maanshanjingkaiqu", "hist": { "zh": "马鞍山经济技术开发区。", "en": "Ma'anshan Economic and Technological Development Zone." } },
+      { "zh": "姑孰", "en": "Gushu", "py": "gushu", "hist": { "zh": "当涂古称姑孰，千年县治。", "en": "Gushu, the ancient name of Dangtu's county seat." } },
+      { "zh": "太白", "en": "Taibai", "py": "taibai", "hist": { "zh": "相传李白终老于当涂青山，站名纪念诗仙。", "en": "In memory of Li Bai, who spent his last years by Dangtu's Green Mountain." } }
+    ]
+  },
+  {
+    "id": "S4", "num": "S4", "color": "#FF631B",
+    "name": { "zh": "S4号线", "en": "Line S4", "ja": "S4号線" },
+    "stations": [
+      { "zh": "滁州高铁站", "en": "Chuzhou Railway Station", "py": "chuzhougaotiezhan", "hist": { "zh": "京沪高铁滁州站；S4 滁州段起点，南京段在建。", "en": "Chuzhou station on the Beijing–Shanghai HSR; the open Chuzhou section starts here." } },
+      { "zh": "花博园", "en": "Huaboyuan", "py": "huaboyuan", "hist": { "zh": "滁州花博园景区。", "en": "The Chuzhou Flower Expo Park." } },
+      { "zh": "琅琊山", "en": "Langyashan", "py": "langyashan", "hist": { "zh": "醉翁亭所在，欧阳修《醉翁亭记》名山。", "en": "Home of the Old Drunkard's Pavilion, made famous by Ouyang Xiu's essay." } },
+      { "zh": "滁州政务中心", "en": "Chuzhou Zhengwuzhongxin", "py": "chuzhouzhengwuzhongxin", "hist": { "zh": "滁州市政务新区。", "en": "Chuzhou's civic-center district." } },
+      { "zh": "苏滁商务中心", "en": "Suchu Shangwuzhongxin", "py": "suchushangwuzhongxin", "hist": { "zh": "苏州—滁州合作产业园核心。", "en": "Heart of the Suzhou–Chuzhou cooperation industrial park." } },
+      { "zh": "大王郢", "en": "Dawangying", "py": "dawangying", "hist": { "zh": "老村落名。", "en": "An old village name." } },
+      { "zh": "林楼", "en": "Linlou", "py": "linlou", "hist": { "zh": "老村落名。", "en": "An old village name." } },
+      { "zh": "十二里半", "en": "Shierliban", "py": "shierliban", "hist": { "zh": "以距城里程得名的老地名。", "en": "An old name marking the distance from town, twelve and a half li." } },
+      { "zh": "汊河新城", "en": "Chahexincheng", "py": "chahexincheng", "hist": { "zh": "汊河镇新区，近苏皖界。", "en": "A new town near the Jiangsu–Anhui border." } },
+      { "zh": "汊河", "en": "Chahe", "py": "chahe", "hist": { "zh": "清流河与滁河汊流之镇。", "en": "A town where branching rivers meet." } }
+    ]
+  },
+  {
+    "id": "S6", "num": "S6", "color": "#C98BDB",
+    "name": { "zh": "S6号线", "en": "Line S6", "ja": "S6号線" },
+    "stations": [
+      { "zh": "马群", "en": "Maqun", "py": "maqun", "hist": { "zh": "相传明初此处为牧马之地，故得名马群；2、S6号线换乘站。", "en": "Said to be a Ming horse pasture; interchange of Lines 2 and S6." } },
+      { "zh": "百水桥", "en": "Baishuiqiao", "py": "baishuiqiao", "hist": { "zh": "旧百水桥老地名。", "en": "Named after the old Baishui bridge." } },
+      { "zh": "麒麟门", "en": "Qilinmen", "py": "qilinmen", "hist": { "zh": "明代外郭城门之一。", "en": "One of the Ming outer-wall gates." } },
+      { "zh": "东郊小镇", "en": "Dongjiaoxiaozhen", "py": "dongjiaoxiaozhen", "hist": { "zh": "城东大型居住小镇。", "en": "A large residential town on the eastern outskirts." } },
+      { "zh": "古泉", "en": "Guquan", "py": "guquan", "hist": { "zh": "汤山古泉村老地名。", "en": "An old village name by Tangshan's ancient springs." } },
+      { "zh": "南京猿人洞", "en": "Nanjingyuanrendong", "py": "nanjingyuanrendong", "hist": { "zh": "1993年出土南京直立人头骨的葫芦洞。", "en": "The cave where the Nanjing Man skull was unearthed in 1993." } },
+      { "zh": "汤山", "en": "Tangshan", "py": "tangshan", "hist": { "zh": "温泉千年古镇，南朝起即为温泉胜地。", "en": "A hot-spring town famed since the Six Dynasties." } },
+      { "zh": "泉都大街", "en": "Quandudajie", "py": "quandudajie", "hist": { "zh": "汤山新城干道。", "en": "A main road of the Tangshan new town." } },
+      { "zh": "黄梅", "en": "Huangmei", "py": "huangmei", "hist": { "zh": "黄梅村老地名，近句容界。", "en": "The old Huangmei village near the Jurong border." } },
+      { "zh": "童世界", "en": "Tongshijie", "py": "tongshijie", "hist": { "zh": "大型主题乐园片区。", "en": "A major theme-resort district." } },
+      { "zh": "华阳", "en": "Huayang", "py": "huayang", "hist": { "zh": "句容古地名，茅山旧称华阳洞天。", "en": "An old Jurong name; Maoshan was famed as the Huayang grotto-heaven." } },
+      { "zh": "崇明", "en": "Chongming", "py": "chongming", "hist": { "zh": "句容城北崇明片区。", "en": "The Chongming quarter north of Jurong's old town." } },
+      { "zh": "句容", "en": "Jurong", "py": "jurong", "hist": { "zh": "西汉置县，千年古邑，茅山所在。", "en": "A county founded in the Western Han, gateway to Mount Mao." } }
+    ]
+  },
+  {
+    "id": "S9", "num": "S9", "color": "#FFC600",
+    "name": { "zh": "S9号线", "en": "Line S9", "ja": "S9号線" },
+    "stations": [
+      { "zh": "翔宇路南", "en": "Xiangyulunan", "py": "xiangyulunan", "hist": { "zh": "翔宇大道南段车站；S1、S9号线换乘站。", "en": "Southern Xiangyu Avenue; interchange of Lines S1 and S9." } },
+      { "zh": "铜山", "en": "Tongshan", "py": "tongshan", "hist": { "zh": "横溪铜山老地名。", "en": "An old place name in the Hengji Tongshan area." } },
+      { "zh": "石湫", "en": "Shiqiu", "py": "shiqiu", "hist": { "zh": "石臼湖畔古镇，影视基地所在。", "en": "An old town by Shijiu Lake, home to a film-studio base." } },
+      { "zh": "明觉", "en": "Mingjue", "py": "mingjue", "hist": { "zh": "明觉寺老地名。", "en": "Named after the old Mingjue temple." } },
+      { "zh": "团结圩", "en": "Tuanjiewei", "py": "tuanjiewei", "hist": { "zh": "石臼湖围垦圩区地名。", "en": "A name from the reclaimed polder fields of Shijiu Lake." } },
+      { "zh": "高淳", "en": "Gaochun", "py": "gaochun", "hist": { "zh": "千年古邑，高淳老街闻名，螃蟹之乡。", "en": "An ancient county famed for its old street and hairy crabs." } }
+    ]
+  }
+]
